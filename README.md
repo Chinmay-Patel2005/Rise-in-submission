@@ -11,6 +11,10 @@ The QuizContract smart contract allows users to create and manage a quiz with a 
 - **Managing Funds:** Deposit and withdraw funds to/from the contract.
 - **Retrieving Data:** Get details of questions and the total number of questions.
 
+## Contract address
+
+The contract address is:- 0x0fC5025C764cE34df352757e82f7B5c4Df39A836
+
 ## Features
 
 ### 1. **Question Management**
