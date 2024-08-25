@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.26;
+pragma solidity ^0.8.0;
 
 contract QuizContract {
     struct Question {
@@ -86,5 +86,12 @@ contract QuizContract {
     // Function to get the current balance of the contract
     function getCurrentBalance() public view returns (uint) {
         return address(this).balance;
+    }
+
+    // Function to get the question text and its active status given the index
+    function getQuestion(uint _questionIndex) public view returns (string memory questionText, bool isActive) {
+        require(_questionIndex > 0 && _questionIndex <= questionCount, "Invalid question index");
+        Question storage question = questions[_questionIndex];
+        return (question.questionText, question.isActive);
     }
 }
