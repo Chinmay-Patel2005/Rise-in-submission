@@ -11,10 +11,6 @@ The QuizContract smart contract allows users to create and manage a quiz with a 
 - **Managing Funds:** Deposit and withdraw funds to/from the contract.
 - **Retrieving Data:** Get details of questions and the total number of questions.
 
-## Contract address
-
-The contract address is:- 0x0fC5025C764cE34df352757e82f7B5c4Df39A836
-
 ## Features
 
 ### 1. **Question Management**
@@ -81,4 +77,13 @@ The contract emits the following events:
 - `QuestionAnswered(uint questionId, address participant, bool isCorrect)`: Emitted when a question is answered.
 - `FundsDeposited(address donor, uint amount)`: Emitted when funds are deposited.
 - `FundsWithdrawn(address recipient, uint amount)`: Emitted when funds are withdrawn.
+
+## Deployment
+Chain Name: Educhain Open Campus 
+Contract Address:  0xe62985bfe58bcf75bdd32969a64668244c824238
+
+![Alt text]("C:\Users\chinm\OneDrive\Desktop\img.png")
+
+## Developer Details
+Email: chinmay.n.patel@gmail.com
 
