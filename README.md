@@ -89,3 +89,5 @@ The contract emits the following events:
 ## Developer Details
 Email: chinmay.n.patel@gmail.com
 
+## PPT and video
+https://drive.google.com/drive/folders/1JLYh7SoblqO_1wIc3A02CaqE6x2J0G5X?usp=sharing
