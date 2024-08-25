@@ -79,10 +79,10 @@ The contract emits the following events:
 - `FundsWithdrawn(address recipient, uint amount)`: Emitted when funds are withdrawn.
 
 ## Deployment
-Chain Name: Educhain Open Campus 
-Contract Address:  0xe62985bfe58bcf75bdd32969a64668244c824238
+-**Chain Name**: Educhain Open Campus 
+-**Contract Address**:  0xe62985bfe58bcf75bdd32969a64668244c824238
 
-![Alt text]("C:\Users\chinm\OneDrive\Desktop\img.png")
+![screenshot](screenshot.png)
 
 ## Developer Details
 Email: chinmay.n.patel@gmail.com
