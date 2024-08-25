@@ -1,6 +1,8 @@
 # Rise-in-submission
 # QuizContract Smart Contract
 
+![screenshot](https://static.vecteezy.com/system/resources/previews/005/083/209/original/editable-flat-outline-design-of-quiz-icon-vector.jpg)
+
 ## Overview
 
 The QuizContract smart contract allows users to create and manage a quiz with a series of questions. Key functionalities include:
